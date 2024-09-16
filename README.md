@@ -22,5 +22,8 @@ Goto your newly created recovery service vault and locate the 'Backup' blade to 
 
 ![image](https://github.com/user-attachments/assets/8e9b4e88-ecb8-4940-b90f-a6c41d04eb9b)
 
-Note: The policy definition depend on your organization's preference. Eg: How frequent you want backup to take place and how long to keep the backups etc
+Note: The policy definition depend on your organization's preference. Eg: How frequent you want backup to take place and how long to keep the backups etc. 
 For this demo, I selected the default policy.
+
+You can decide to exclude some VMs if they are not production environment. I added only one VM as seen in screenshot below:
+![image](https://github.com/user-attachments/assets/26f1bf7f-355f-459f-9452-a80ae4105c95)
