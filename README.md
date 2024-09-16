@@ -27,3 +27,10 @@ For this demo, I selected the default policy.
 
 You can decide to exclude some VMs if they are not production environment. I added only one VM as seen in screenshot below:
 ![image](https://github.com/user-attachments/assets/26f1bf7f-355f-459f-9452-a80ae4105c95)
+
+On the VM seleced during backup configuration, I can see the VM is now running the initial backup.
+However, I can use the 'Backup now' option and select rentention period.
+![image](https://github.com/user-attachments/assets/50fcee9e-3564-4f63-8428-f180aa1b74e3)
+
+Now that there is 1 restore point, we can perform a full VM restore of file recovery
+![image](https://github.com/user-attachments/assets/3a7b0223-d1d2-40d4-bd90-6e01eae1d8a3)
