@@ -1,4 +1,4 @@
-# Azure-Backup-and-Disaster-Recovery
+# Azure-Backup-and-Site-Recovery
 <h2>OVERVIEW</h2>
 <p>The Azure Backup service provides simple, secure, and cost-effective solutions to back up your data and recover it from the Microsoft Azure cloud. https://learn.microsoft.com/en-us/azure/backup/backup-overview</p>
 <h2>Platform Used</h2>
